@@ -1,0 +1,9 @@
+# Node Modules
+/node_modules
+
+# Distribution 
+/build
+package.json
+build/css/style.css
+build/css/style.min.css
+build/js/script.min.js
